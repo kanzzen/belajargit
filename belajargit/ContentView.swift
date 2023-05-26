@@ -29,7 +29,8 @@ struct ContentView: View {
                 ListRowView()
             }
             .listStyle(.plain)
-            .navigationTitle("Awesome List2")
+
+            .navigationTitle("Awesome List1")
         }
         
         
